@@ -18,7 +18,7 @@ st.header('DATA PROCESSING & ANALYSIS')
 st.write('The table below represents all employee data that will be used in our analysis to predict employee performance')
 #Import dataset
 #Read the excel file
-data=pd.read_excel('INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls', index_col=0)
+data=pd.read_csv('INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls.csv', index_col=0)
 #Setting the EmpNumber as index to ensure that no rows of data in the table are identical
 
 #Get user input on how many rows to disply
