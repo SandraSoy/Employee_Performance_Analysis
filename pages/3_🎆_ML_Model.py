@@ -13,7 +13,7 @@ st.set_page_config(page_title="ML_Model", page_icon=":fireworks:")
 st.header('Model Deployment')
 #Import dataset
 #Read the excel file
-data=pd.read_csv('INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.csv', index_col=0)
+data=pd.read_csv('copy_INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.csv', index_col=0)
 #Setting the EmpNumber as index to ensure that no rows of data in the table are identical
 
 #Get user input on how many rows to disply
