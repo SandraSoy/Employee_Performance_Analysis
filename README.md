@@ -106,5 +106,4 @@ This suggests that performance improvement strategies should focus on:
 
 ---
 
-## 📁 Repository Structure
 
