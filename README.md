@@ -81,7 +81,7 @@ Chosen due to:
 Confusion matrix and classification metrics were evaluated to ensure balanced predictive performance.
 
 <p align="center">
-  <img src="assets/confusion_matrix.png" width="500"/>
+  <img src="assets/cm_matrix.png" width="500"/>
 </p>
 
 ---
