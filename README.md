@@ -20,7 +20,7 @@ The objective is to support HR and leadership teams with data-driven insights fo
 
 ## 🧠 Business Problem
 
-Employee performance evaluations are often subjective and reactive.  
+Organizations can improve productivity and retention by understanding what drives employee performance. The employee performance evaluations are often subjective and reactive.  
 This project aims to:
 
 > Predict employee performance ratings proactively using structured HR data.
